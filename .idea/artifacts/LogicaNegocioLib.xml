@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LogicaNegocioLib">
+    <output-path>$PROJECT_DIR$/out/artifacts/LogicaNegocioLib</output-path>
+    <root id="archive" name="LogicaNegocioLib.jar">
+      <element id="module-output" name="Factura" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
